@@ -9,8 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.options import Options
-
-
+# %%
+!pip install webdriver_manager
 # In[56]:
 
 
