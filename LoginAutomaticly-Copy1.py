@@ -60,6 +60,7 @@ downloadc.click();
 
 
 driver.find_element("id", "real-nationalId").send_keys("0386622051")
+#0386622051
 
 
 # In[ ]:
@@ -69,25 +70,38 @@ driver.find_element('xpath','/html/body/div[1]/div[2]/div/div/div[1]/div/div[5]/
 
 
 # In[ ]:
+x = driver.find_element('xpath','/html/body/div[1]/div[2]/div/div/div[1]/div/div[5]/div/div/div[2]/div[1]/div[2]/div[5]/div/div[2]/div[3]/div/label/select')
+# In[ ]:
+select = Select(x)
+# %%
+options = select.options
+options[2].click()
+#options = select.options
 
 
+# %%
 
-
+Row = driver.find_elements('xpath',"/html/body/div[1]/div[2]/div/div/div[1]/div/div[5]/div/div/div[2]/div[1]/div[2]/div[5]/div/div[1]/div[1]/div[2]/table/tbody/tr")
+len(Row)
 
 # In[ ]:
+Col = driver.find_elements('xpath',"/html/body/div[1]/div[2]/div/div/div[1]/div/div[5]/div/div/div[2]/div[1]/div[2]/div[5]/div/div[1]/div[1]/div[2]/table/tbody/tr[2]/td")
+len(Col)
+
+# %%
+
+for r in range(1, len(Row)+1):
+  
+    for p in range(1, len(Col)):
+       
+        # obtaining the text from each column of the table
+        value = driver.find_element('xpath',"/html/body/div[1]/div[2]/div/div/div[1]/div/div[5]/div/div/div[2]/div[1]/div[2]/div[5]/div/div[1]/div[1]/div[2]/table/tbody/tr["+str(r)+"]/td["+str(p)+"]").text
+        print(value, end='       ')
+    print()
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+# %%
+driver.find_element('xpath',"/html/body/div[1]/div[2]/div/div/div[1]/div/div[5]/div/div/div[2]/div[1]/div[2]/div[5]/div/div[1]/div[1]/div[2]/table/tbody/tr[1]/td[1]").text
+# %%
+len(Row)
+# %%
