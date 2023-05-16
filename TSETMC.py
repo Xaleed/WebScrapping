@@ -10,9 +10,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.select import Select
-
+from selenium.webdriver.support import expected_conditions as EC
+# %%
+driver = webdriver.Chrome()
 # In[56]:
-
+#
 
 options = Options()
 options.add_argument("--headless")
@@ -33,14 +35,6 @@ download= driver.find_element('id','search');
 download.click();
 
 
-# In[61]:
-
-
-downloadcsv= driver.find_element('id','addAccused');
-downloadcsv.click();
-
-
-
 
 # In[63]:
 
@@ -50,13 +44,15 @@ driver.find_element("id", "SearchKey").send_keys("حتاید")
 
 # In[62]:
 
-
-driver.find_element('xpath','/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a').click();
-#/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a
+d = driver.find_element('xpath',"/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a");
+d.click()
+#/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a
+#/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a
+#/html/body/div[5]/section/div/div/div/div[2]/table/tbody/tr[1]/td[1]/a
 
 
 # In[ ]:
-
+driver.refresh()
 
 K = driver.find_element('xpath','/html/body/div[4]/form/div[3]/div[2]/div[1]/div[3]/div[2]/div/div[5]/span')
 # %%

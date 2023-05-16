@@ -1198,3 +1198,658 @@ console.error: "Unable to find target with innerWindowId:6442450959"
 JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
 JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
 JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+1684172445630	geckodriver	INFO	Listening on 127.0.0.1:49317
+1684172446152	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "43017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYBKHDp"
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.390: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.390: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.829: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.829: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.953: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.953: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.996: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:6869): Gtk-WARNING **: 21:10:46.996: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684172447360	Marionette	INFO	Marionette enabled
+1684172447365	Marionette	INFO	Listening on port 41083
+Read port: 41083
+WebDriver BiDi listening on ws://127.0.0.1:43017
+1684172447553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYBKHDp/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:43017/devtools/browser/48ecadf3-74ab-4cf8-94a7-997cc262a747
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+1684172745075	geckodriver	INFO	Listening on 127.0.0.1:51695
+1684172745584	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "58859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepCu7hr"
+
+(firefox:7816): Gtk-WARNING **: 21:15:45.725: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:7816): Gtk-WARNING **: 21:15:45.725: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:7816): Gtk-WARNING **: 21:15:46.164: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:7816): Gtk-WARNING **: 21:15:46.165: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:7816): Gtk-WARNING **: 21:15:46.321: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:7816): Gtk-WARNING **: 21:15:46.321: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:7816): Gtk-WARNING **: 21:15:46.365: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:7816): Gtk-WARNING **: 21:15:46.365: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684172746758	Marionette	INFO	Marionette enabled
+1684172746763	Marionette	INFO	Listening on port 33157
+Read port: 33157
+WebDriver BiDi listening on ws://127.0.0.1:58859
+1684172746949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepCu7hr/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58859/devtools/browser/71e0e6e7-1924-4e26-90a8-ea8272266379
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:ShowSearchWindow()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:ShowSearchWindow()'
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=3722699128879020, line 3: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=3722699128879020, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=3722699128879020 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=3722699128879020 line 1 > injectedScript, line 3: unreachable code after return statement
+1684172908968	geckodriver	INFO	Listening on 127.0.0.1:41613
+1684172909485	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "55979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezWSjjO"
+
+(firefox:8313): Gtk-WARNING **: 21:18:29.656: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8313): Gtk-WARNING **: 21:18:29.657: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:8313): Gtk-WARNING **: 21:18:30.087: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8313): Gtk-WARNING **: 21:18:30.088: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8313): Gtk-WARNING **: 21:18:30.222: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8313): Gtk-WARNING **: 21:18:30.222: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8313): Gtk-WARNING **: 21:18:30.261: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8313): Gtk-WARNING **: 21:18:30.261: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684172910634	Marionette	INFO	Marionette enabled
+1684172910640	Marionette	INFO	Listening on port 39277
+Read port: 39277
+WebDriver BiDi listening on ws://127.0.0.1:55979
+1684172910827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezWSjjO/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55979/devtools/browser/2dca5798-4b4c-4b22-a23e-9e1676aad2c8
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:ShowSearchWindow()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:ShowSearchWindow()'
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684173203455	Marionette	INFO	Stopped listening on port 39277
+1684173208574	geckodriver	INFO	Listening on 127.0.0.1:47331
+1684173209093	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "35245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewV2NoC"
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.223: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.223: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.694: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.695: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.822: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.822: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.871: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:8900): Gtk-WARNING **: 21:23:29.871: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684173210242	Marionette	INFO	Marionette enabled
+1684173210248	Marionette	INFO	Listening on port 37315
+Read port: 37315
+WebDriver BiDi listening on ws://127.0.0.1:35245
+1684173210439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewV2NoC/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35245/devtools/browser/e151785a-a947-46b1-a745-a70b2f61fd09
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:ShowSearchWindow()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:ShowSearchWindow()'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684173350533	Marionette	INFO	Stopped listening on port 33157
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684173351471	Marionette	INFO	Stopped listening on port 37315
+1684173355735	geckodriver	INFO	Listening on 127.0.0.1:37899
+1684173356238	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "35825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewd898r"
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.318: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.318: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.742: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.742: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.867: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.867: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.905: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9461): Gtk-WARNING **: 21:25:56.905: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684173357270	Marionette	INFO	Marionette enabled
+1684173357275	Marionette	INFO	Listening on port 44883
+Read port: 44883
+WebDriver BiDi listening on ws://127.0.0.1:35825
+1684173357458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewd898r/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35825/devtools/browser/634e3b14-4afe-4aed-aca7-698e6ca03638
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+1684173467592	geckodriver	INFO	Listening on 127.0.0.1:52145
+1684173468095	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "55685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile63fahr"
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.203: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.203: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.753: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.753: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.906: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.906: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.959: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:9969): Gtk-WARNING **: 21:27:48.960: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684173469400	Marionette	INFO	Marionette enabled
+1684173469405	Marionette	INFO	Listening on port 41183
+Read port: 41183
+WebDriver BiDi listening on ws://127.0.0.1:55685
+1684173469650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile63fahr/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55685/devtools/browser/16c4833a-13ca-4079-a878-69bda90fb994
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:ShowSearchWindow()'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:ShowSearchWindow()'
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript warning: http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js, line 2: Script terminated by timeout at:
+g@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3791818
+So/<@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3793828
+ka@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3803369
+As@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3843882
+ul@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3834393
+sl@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3834316
+$s@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3831325
+Qi/<@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3782710
+t.unstable_runWithPriority@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3858291
+Vi@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3782419
+Qi@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3782657
+zi@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3782590
+Ys@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3828107
+ga@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3799827
+680/ga/Oe/e/<@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:627556
+u@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3862427
+l/o._invoke@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3862181
+v/</<@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3862786
+n@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:119777
+s@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:119981
+i/</<@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:120040
+i/<@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:119920
+680/ga/Oe/<@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:627642
+promise callback*Oe@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:627432
+680/ga/</t<@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:629324
+setInterval handler*680/ga/<@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:629309
+is@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3820832
+Al@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3839973
+t.unstable_runWithPriority@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3858291
+Vi@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3782419
+gl@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3839730
+pl/<@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3839641
+j@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3857230
+x.port1.onmessage@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3855986
+EventHandlerNonNull*@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3855910
+i@http://main.tsetmc.com/InstInfo/3722699128879020:1:561
+@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3854404
+i@http://main.tsetmc.com/InstInfo/3722699128879020:1:561
+@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:3737298
+i@http://main.tsetmc.com/InstInfo/3722699128879020:1:561
+@http://main.tsetmc.com/static/js/2.d3e0f25b.chunk.js:2:211701
+i@http://main.tsetmc.com/InstInfo/3722699128879020:1:561
+680@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:351946
+i@http://main.tsetmc.com/InstInfo/3722699128879020:1:561
+427@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:351471
+i@http://main.tsetmc.com/InstInfo/3722699128879020:1:561
+r@http://main.tsetmc.com/InstInfo/3722699128879020:1:430
+t@http://main.tsetmc.com/InstInfo/3722699128879020:1:293
+@http://main.tsetmc.com/static/js/main.38ad3dd0.chunk.js:1:67
+
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934595/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934595/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal8589934595/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:772:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1081:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:570:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1081, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1081))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:338:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:772:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1081:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:570:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1081, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1081))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:338:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal12884901889/domwalker30 (resource://devtools/server/actors/inspector/document-walker.js:78:0)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal12884901889/domwalker30 (resource://devtools/server/actors/inspector/document-walker.js:78:0)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 383: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal12884901889/domwalker30 (resource://devtools/server/actors/inspector/document-walker.js:78:0)
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:772:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1081:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:570:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1081, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1081))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:338:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684173957947	Marionette	INFO	Stopped listening on port 41183
+1684174128791	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1684174134002	geckodriver	INFO	Listening on 127.0.0.1:50187
+1684174134505	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "48959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJlJMYB"
+
+(firefox:11232): Gtk-WARNING **: 21:38:54.602: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11232): Gtk-WARNING **: 21:38:54.602: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:11232): Gtk-WARNING **: 21:38:55.179: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11232): Gtk-WARNING **: 21:38:55.179: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11232): Gtk-WARNING **: 21:38:55.334: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11232): Gtk-WARNING **: 21:38:55.334: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11232): Gtk-WARNING **: 21:38:55.374: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11232): Gtk-WARNING **: 21:38:55.374: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684174135842	Marionette	INFO	Marionette enabled
+1684174135849	Marionette	INFO	Listening on port 36657
+Read port: 36657
+WebDriver BiDi listening on ws://127.0.0.1:48959
+1684174136100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJlJMYB/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48959/devtools/browser/f8181482-5ae0-4cdd-89c3-10f1008ebe20
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+1684174222093	Marionette	INFO	Stopped listening on port 44883
+1684174222949	Marionette	INFO	Stopped listening on port 36657
+1684174232039	geckodriver	INFO	Listening on 127.0.0.1:51049
+1684174232562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "44523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCXX4bo"
+
+(firefox:11739): Gtk-WARNING **: 21:40:32.774: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11739): Gtk-WARNING **: 21:40:32.774: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:11739): Gtk-WARNING **: 21:40:33.240: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11739): Gtk-WARNING **: 21:40:33.240: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11739): Gtk-WARNING **: 21:40:33.359: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11739): Gtk-WARNING **: 21:40:33.359: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11739): Gtk-WARNING **: 21:40:33.397: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:11739): Gtk-WARNING **: 21:40:33.397: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684174233773	Marionette	INFO	Marionette enabled
+1684174233777	Marionette	INFO	Listening on port 45287
+Read port: 45287
+WebDriver BiDi listening on ws://127.0.0.1:44523
+1684174233964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCXX4bo/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:44523/devtools/browser/1731f932-58cd-485e-ba8b-3e6dfc0572c2
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15, line 3: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684174685360	Marionette	INFO	Stopped listening on port 45287
+1684174982277	geckodriver	INFO	Listening on 127.0.0.1:51999
+1684174982798	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "48067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3O8yNX"
+
+(firefox:13094): Gtk-WARNING **: 21:53:02.910: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:13094): Gtk-WARNING **: 21:53:02.910: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:13094): Gtk-WARNING **: 21:53:03.346: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:13094): Gtk-WARNING **: 21:53:03.346: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:13094): Gtk-WARNING **: 21:53:03.482: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:13094): Gtk-WARNING **: 21:53:03.482: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:13094): Gtk-WARNING **: 21:53:03.525: Theme parsing error: gtk.css:1649:16: '-gtk-icon-size' is not a valid property name
+
+(firefox:13094): Gtk-WARNING **: 21:53:03.525: Theme parsing error: gtk.css:1652:16: '-gtk-icon-size' is not a valid property name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684174983895	Marionette	INFO	Marionette enabled
+1684174983900	Marionette	INFO	Listening on port 34019
+Read port: 34019
+WebDriver BiDi listening on ws://127.0.0.1:48067
+1684174984083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3O8yNX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48067/devtools/browser/2a90c267-cf87-47b2-a482-2aecf52a6ac6
+1684174999498	Marionette	INFO	Stopped listening on port 34019
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
