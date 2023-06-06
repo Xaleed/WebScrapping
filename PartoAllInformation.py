@@ -18,8 +18,8 @@ driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
 #driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
 # %%
 driver.get("https://parto.seo.ir/ViolationReport/AddOrEditViolationReport")
-username = "Masoumifard.kh"
-password = "Masoumifard.kh@1"
+username = "Masoumi"
+password = "Masoumi"
 # %%
 # برای این قسمت باید عدد داخل باکس در صفحه وب وارد شود
 Captcha = 80503
